@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|c:\\users\\pc\\source\\repos\\themeswitcher\\themeswitcher\\pages\\managemetapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|solutionrelative:themeswitcher\\pages\\managemetapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|c:\\users\\pc\\source\\repos\\themeswitcher\\themeswitcher\\pages\\calendarpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|solutionrelative:themeswitcher\\pages\\calendarpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|c:\\users\\pc\\source\\repos\\themeswitcher\\themeswitcher\\pagemodels\\mainpagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|solutionrelative:themeswitcher\\pagemodels\\mainpagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|c:\\users\\pc\\source\\repos\\themeswitcher\\themeswitcher\\pages\\controls\\cfmultipickerpopup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|solutionrelative:themeswitcher\\pages\\controls\\cfmultipickerpopup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|c:\\users\\pc\\source\\repos\\themeswitcher\\themeswitcher\\pages\\calendarpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|solutionrelative:themeswitcher\\pages\\calendarpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|c:\\users\\pc\\source\\repos\\themeswitcher\\themeswitcher\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|solutionrelative:themeswitcher\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|c:\\users\\pc\\source\\repos\\themeswitcher\\themeswitcher\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|solutionrelative:themeswitcher\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|c:\\users\\pc\\source\\repos\\themeswitcher\\themeswitcher\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|solutionrelative:themeswitcher\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|c:\\users\\pc\\source\\repos\\themeswitcher\\themeswitcher\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|solutionrelative:themeswitcher\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|c:\\users\\pc\\source\\repos\\themeswitcher\\themeswitcher\\pages\\controls\\cfmultipickerpopup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|solutionrelative:themeswitcher\\pages\\controls\\cfmultipickerpopup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|c:\\users\\pc\\source\\repos\\themeswitcher\\themeswitcher\\pages\\controls\\selectionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|solutionrelative:themeswitcher\\pages\\controls\\selectionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|c:\\users\\pc\\source\\repos\\themeswitcher\\themeswitcher\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|solutionrelative:themeswitcher\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|c:\\users\\pc\\source\\repos\\themeswitcher\\themeswitcher\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|solutionrelative:themeswitcher\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|c:\\users\\pc\\source\\repos\\themeswitcher\\themeswitcher\\themeswitcher.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|solutionrelative:themeswitcher\\themeswitcher.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|c:\\users\\pc\\source\\repos\\themeswitcher\\themeswitcher\\themes\\dark.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|solutionrelative:themeswitcher\\themes\\dark.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|c:\\users\\pc\\source\\repos\\themeswitcher\\themeswitcher\\themes\\dark.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|solutionrelative:themeswitcher\\themes\\dark.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|c:\\users\\pc\\source\\repos\\themeswitcher\\themeswitcher\\themes\\light.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|solutionrelative:themeswitcher\\themes\\light.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|c:\\users\\pc\\source\\repos\\themeswitcher\\themeswitcher\\themes\\light.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9147C89B-AE9A-4FD4-BC80-1E081AB3BB68}|ThemeSwitcher\\ThemeSwitcher.csproj|solutionrelative:themeswitcher\\themes\\light.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPageModel.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\PageModels\\MainPageModel.cs",
+              "RelativeDocumentMoniker": "ThemeSwitcher\\PageModels\\MainPageModel.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\PageModels\\MainPageModel.cs",
+              "RelativeToolTip": "ThemeSwitcher\\PageModels\\MainPageModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:42:32.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageMetaPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\Pages\\ManageMetaPage.xaml",
+              "RelativeDocumentMoniker": "ThemeSwitcher\\Pages\\ManageMetaPage.xaml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\Pages\\ManageMetaPage.xaml",
+              "RelativeToolTip": "ThemeSwitcher\\Pages\\ManageMetaPage.xaml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAuwD8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-06T09:10:48.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalendarPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\Pages\\CalendarPage.xaml.cs",
+              "RelativeDocumentMoniker": "ThemeSwitcher\\Pages\\CalendarPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\Pages\\CalendarPage.xaml.cs",
+              "RelativeToolTip": "ThemeSwitcher\\Pages\\CalendarPage.xaml.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAIwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T14:12:50.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalendarPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\Pages\\CalendarPage.xaml",
+              "RelativeDocumentMoniker": "ThemeSwitcher\\Pages\\CalendarPage.xaml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\Pages\\CalendarPage.xaml",
+              "RelativeToolTip": "ThemeSwitcher\\Pages\\CalendarPage.xaml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwBkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-05T14:08:56.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CfMultiPickerPopup.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\Pages\\Controls\\CfMultiPickerPopup.xaml.cs",
+              "RelativeDocumentMoniker": "ThemeSwitcher\\Pages\\Controls\\CfMultiPickerPopup.xaml.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\Pages\\Controls\\CfMultiPickerPopup.xaml.cs",
+              "RelativeToolTip": "ThemeSwitcher\\Pages\\Controls\\CfMultiPickerPopup.xaml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAtwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T12:05:00.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CfMultiPickerPopup.xaml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\Pages\\Controls\\CfMultiPickerPopup.xaml",
+              "RelativeDocumentMoniker": "ThemeSwitcher\\Pages\\Controls\\CfMultiPickerPopup.xaml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\Pages\\Controls\\CfMultiPickerPopup.xaml",
+              "RelativeToolTip": "ThemeSwitcher\\Pages\\Controls\\CfMultiPickerPopup.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-21T12:03:07.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SelectionList.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\Pages\\Controls\\SelectionList.cs",
+              "RelativeDocumentMoniker": "ThemeSwitcher\\Pages\\Controls\\SelectionList.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\Pages\\Controls\\SelectionList.cs",
+              "RelativeToolTip": "ThemeSwitcher\\Pages\\Controls\\SelectionList.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA3wCsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:57:09.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\App.xaml",
+              "RelativeDocumentMoniker": "ThemeSwitcher\\App.xaml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\App.xaml",
+              "RelativeToolTip": "ThemeSwitcher\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-18T09:03:51.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ThemeSwitcher\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\App.xaml.cs",
+              "RelativeToolTip": "ThemeSwitcher\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T09:05:17.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\AppShell.xaml",
+              "RelativeDocumentMoniker": "ThemeSwitcher\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\AppShell.xaml",
+              "RelativeToolTip": "ThemeSwitcher\\AppShell.xaml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwCIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-21T12:14:21.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "ThemeSwitcher\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\AppShell.xaml.cs",
+              "RelativeToolTip": "ThemeSwitcher\\AppShell.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T12:25:22.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ThemeSwitcher\\Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "ThemeSwitcher\\Pages\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T09:30:36.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ThemeSwitcher\\Pages\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "ThemeSwitcher\\Pages\\MainPage.xaml",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwDEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-21T09:22:40.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Dark.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\Themes\\Dark.xaml.cs",
+              "RelativeDocumentMoniker": "ThemeSwitcher\\Themes\\Dark.xaml.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\Themes\\Dark.xaml.cs",
+              "RelativeToolTip": "ThemeSwitcher\\Themes\\Dark.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T10:05:38.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Light.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\Themes\\Light.xaml.cs",
+              "RelativeDocumentMoniker": "ThemeSwitcher\\Themes\\Light.xaml.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\Themes\\Light.xaml.cs",
+              "RelativeToolTip": "ThemeSwitcher\\Themes\\Light.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T10:02:47.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dark.xaml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\Themes\\Dark.xaml",
+              "RelativeDocumentMoniker": "ThemeSwitcher\\Themes\\Dark.xaml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\Themes\\Dark.xaml",
+              "RelativeToolTip": "ThemeSwitcher\\Themes\\Dark.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-18T10:04:11.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Light.xaml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\Themes\\Light.xaml",
+              "RelativeDocumentMoniker": "ThemeSwitcher\\Themes\\Light.xaml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\Themes\\Light.xaml",
+              "RelativeToolTip": "ThemeSwitcher\\Themes\\Light.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-18T10:01:30.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ThemeSwitcher.csproj",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\ThemeSwitcher.csproj",
+              "RelativeDocumentMoniker": "ThemeSwitcher\\ThemeSwitcher.csproj",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ThemeSwitcher\\ThemeSwitcher\\ThemeSwitcher.csproj",
+              "RelativeToolTip": "ThemeSwitcher\\ThemeSwitcher.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-18T09:31:28.269Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

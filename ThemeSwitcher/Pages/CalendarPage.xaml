@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage 
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:sf="clr-namespace:Syncfusion.Maui.Calendar;assembly=Syncfusion.Maui.Calendar"
+    xmlns:models="clr-namespace:ThemeSwitcher.Models"
+    x:Class="ThemeSwitcher.Pages.CalendarPage"
+    Title="Calendar">
+
+    <VerticalStackLayout Padding="10">
+
+        <!-- Syncfusion Calendar -->
+        <sf:SfCalendar 
+            x:Name="Calendar"
+            View="Month"
+            SelectionChanged="Calendar_SelectionChanged"
+            Margin="0,0,0,10"/>
+
+        <!-- Add Event Button -->
+        <Button 
+            Text="Add Event"
+            Clicked="OnAddEventClicked"
+            HorizontalOptions="Center"
+            Margin="0,10"/>
+
+        <!-- Event List -->
+        <CollectionView 
+            x:Name="EventList"
+            ItemsSource="{Binding Events}"
+            SelectionMode="Single"
+            Margin="0,10">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Border 
+                        Padding="10" 
+                        Stroke="Gray" 
+                        StrokeThickness="1"
+                        Margin="5">
+                        <StackLayout>
+                            <Label 
+                                Text="{Binding Title}" 
+                                FontSize="16" 
+                                FontAttributes="Bold"/>
+                            <Label 
+                                Text="{Binding Date, StringFormat='{}{0:MMMM dd, yyyy HH:mm}'}"
+                                FontSize="14" 
+                                TextColor="Gray"/>
+                        </StackLayout>
+                        <Border.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="OnEventTapped"/>
+                        </Border.GestureRecognizers>
+                    </Border>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+    </VerticalStackLayout>
+</ContentPage>

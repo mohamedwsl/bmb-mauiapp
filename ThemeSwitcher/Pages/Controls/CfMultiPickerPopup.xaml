@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ThemeSwitcher.Pages.Controls.CfMultiPickerPopup"
+             BackgroundColor="White"
+             Title="Choose Themes">
+    <VerticalStackLayout Padding="20" Spacing="10">
+
+        <CollectionView x:Name="ThemesCollection"
+                        SelectionMode="Multiple"
+                        ItemsSource="{Binding ThemeOptions}"
+                        SelectedItems="{Binding SelectedItems, Mode=TwoWay}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid Padding="10">
+                        <CheckBox IsChecked="{Binding IsSelected, Mode=TwoWay}" />
+                        <Label Text="{Binding Name}" FontSize="18" VerticalOptions="Center" Margin="10,0,0,0" />
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+        <HorizontalStackLayout HorizontalOptions="End" Spacing="10">
+            <Button Text="Cancel" Clicked="OnCancelClicked" />
+            <Button Text="Confirm" Clicked="OnConfirmClicked" />
+        </HorizontalStackLayout>
+    </VerticalStackLayout>
+</ContentPage>

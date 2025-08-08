@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="ThemeSwitcher.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:sf="clr-namespace:Syncfusion.Maui.Toolkit.SegmentedControl;assembly=Syncfusion.Maui.Toolkit"
+    xmlns:pages="clr-namespace:ThemeSwitcher.Pages"
+    Shell.FlyoutBehavior="Flyout"
+    Title="ThemeSwitcher">
+
+    <ShellContent
+        Title="Dashboard"
+        Icon="{StaticResource IconDashboard}"
+        ContentTemplate="{DataTemplate pages:MainPage}"
+        Route="main" />
+
+    <ShellContent
+        Title="Projects"
+        Icon="{StaticResource IconProjects}"
+        ContentTemplate="{DataTemplate pages:ProjectListPage}"
+        Route="projects" />
+
+    <ShellContent
+        Title="Manage Meta"
+        Icon="{StaticResource IconMeta}"
+        ContentTemplate="{DataTemplate pages:ManageMetaPage}"
+        Route="manage" />
+
+    <Shell.FlyoutFooter>
+        <Grid Padding="15">
+            <Picker x:Name="ThemePicker"
+                Title="Select Theme"
+                SelectedIndexChanged="ThemePicker_SelectedIndexChanged"
+                HorizontalOptions="Center"
+                VerticalOptions="Center">
+                <Picker.ItemsSource>
+                        <x:Array Type="{x:Type x:String}">
+                            <x:String>Light</x:String>
+                            <x:String>Dark</x:String>
+                        </x:Array>
+                </Picker.ItemsSource>
+             </Picker>   
+        </Grid>
+    </Shell.FlyoutFooter>
+
+</Shell>
